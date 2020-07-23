@@ -1,0 +1,50 @@
+.hi
+{
+	background: pink;
+}
+.padder{
+	padding-right:33%;
+	padding-bottom:7%;
+	padding-top:3%;
+	padding-left:33%;
+	
+}
+
+.pad{
+	padding:2%;
+}
+
+.padda{
+	position: relative;
+	float:right;
+}
+.head{
+	background: rgb(0, 204, 255);
+	background-size: 100px
+	text-decoration-color: white;
+	padding:3%;
+	font-size: 25px;
+	color: white;
+}
+.h{
+	padding-top:3%;
+}
+
+.input-icons i{
+position: absolute; 
+}
+.input-icons { 
+            width: 100%; 
+            margin-bottom: 10px; 
+ } 
+ .input-field { 
+            width: 100%; 
+            padding: 10px; 
+   
+        } 
+
+.icon { 
+            padding: 10px; 
+            min-width: 50px; 
+            text-align: center; 
+        } 
